@@ -49,7 +49,13 @@ Y con ello vienen las siguientes preguntas
 
 ¿Qué diferencias hay entre los distintos usos de acuerdo al acceso de ciertos dispositivos?
 
-### Panorama General del Acceso a TIC en los hogares
+### Acceso a TIC's en hogares mexicanos
+
+Si te interesa saber el proceso de obtención y gráficado de datos puede revisar el siguiente documento que está ubicado en este  
+repositorio:  
+[Notebook de Acceso a TIC's en hogares mexicanos](/jupyter_notebooks/2.2.-Tics_households_Mexico.ipynb)
+
+#### Panorama General del Acceso a TIC en los hogares
 
 Es casi una obviedad pensar en cuál es la tecnología más extendida por todo el mundo; el Smartphone. Pero en este contexto se  
 quiere  hacer una comparación entre los dispostivos con los cuales hay un interacción más directa con la internet, en específico  
@@ -70,7 +76,7 @@ variables es significante:
 Valor p: 0.0001
 Para más referencia revisar el documeto proporcionado.
 
-### Porqué no se tiene acceso a una computadora en el hogar
+#### Porqué no se tiene acceso a una computadora en el hogar
 
 Dentro de la encuesta se enlista razones del porque no se tiene una computadora en casa, y esto es lo que se respondió en los
 hogares:
