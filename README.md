@@ -1,13 +1,51 @@
 # Brecha Digital de Acceso en México
 
-El proyecto aún está en construcción, pero puedes revisar lo ya hecho.
+<img src="https://www.greengeeks.com/blog/wp-content/uploads/2020/04/Mobile-and-Desktop-Users.jpg" width=600 height=300>
 
-Esté anális exploratorio se hace con el objetivo de conocer la base de datos, hacer una limpieza y obtener datos relevantes.  
-Los datos serán relevantes en cuánto al tema de Brecha Digital desde una perspectiv sociológica, aún así esto no será una limitante  
-pues se busca conocer las estadísicas que puedan surgir e impulsar una investigación que se llevará a largo plazo.  
-Por el momento Base de Datos principal será el ENDUTIH (Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información  
-en los Hogares) del 2021.
+*El proyecto sigue en contrucción pero se actualiza constantemente*
 
-## Limpieza de datos
+## Introducción
+
+La Brecha Digital es una de las problemáticas con respesto a desigualdad más discutidas recientemente, y no es para menos,  
+las TIC (Tecnologías de la Información y las Comunicaciones) se han convertido en una parte escencial de nuestra vida y como  
+se desarrolla el mundo en general. El avance de las TIC ha sido acelerado y ha penetrado en varios aspectos tanto económicos   
+como sociales, dando un valor especial al conocimiento y la información, lo que hizo que llamaran a este nuevo estadio de la  
+sociedad como Sociedad de la Información. Y aunque a esta nueva "fase" de la sociedad las TIC estén siendo usadas en diversas   
+partes, está distribución no es igual. No sólo en cuestiones de acceso, sino también en el uso y apropiación de estas mismas. 
+
+En este análisis me enfocaré en la Brecha de Acceso y Uso, haciendo una comparación entres los usuarios de Computadoras y 
+Smartphones en México. Partiré usando los Datos Abiertos de la Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la  
+Información en los Hogares (ENDUTIH) del 2021 hecha por el INEGI (Instituto Nacional de Estadística y Geografía). Este será un  
+proyecto a largo plazo, así que se podría decir que está es la primera parte de los diversos análisis que se harán con respecto  
+a la Brecha Digital.
+
+## Datos
+
+Los datos fueron obtenidos directamente del ENDUTIH 2021 en la página del INEGI en la sección de Datos Abiertos:  
+https://www.inegi.org.mx/programas/dutih/2021/#Datos_abiertos
+
+Todo bajo los TÉRMINOS DE LIBRE USO DE LA INFORMACIÓN DEL INEGI:   
+https://www.inegi.org.mx/rnm/index.php/catalog/771
+
+## Manejo de Datos
+
+La base de Datos cuenta con 5 tablas independientes pero relacionales. No es obligatorio el juntar cada una de las tablas para   
+los análisis, ya que estás se enfocan en ciertos indices diferenciados, como características socioedemográficas del hogar, de  
+los residentes, condiciónes y características de las TIC tanto por hogar como por usuario.
+
+El manejo de los datos por lo cual es simples de alguna manera, ya que los datos no viene etiquetados y sólo se etiquetarán aquellos  
+que sean de uso para lás gráficas correspondientes. Para una referencia sobre el manejo de datos puede revisar el siguiente documento  
+contenido en este repositorio:
 
 [Manejo de Datos del ENDUTIH 2021](/jupyter_notebooks/1.1.-Data_Wrangling_ENDUTIH_2021.ipynb)
+
+## Análisis de Datos
+
+### Panorama General del Acceso a TIC en los hogares
+
+Es casi una obviedad pensar en cuál es la tecnología más extendida por todo el mundo; el Smartphone. Pero en este contexto se quiere  
+hacer una comparación entre los dispostivos con los cuales hay un interacción más directa con la internet, en específico con aplicaciones  
+web o apps. Por eso mismo se comenzará el análisis comparando el acceso entre los hogares a Smartphones, Computadoras e Internet.
+
+<img src="/Graphs/Tics_hog_sci.png" width=587 height=550>
+
