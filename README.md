@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos de ENDUTIH
+# Brecha Digital de Acceso en México
 
 El proyecto aún está en construcción, pero puedes revisar lo ya hecho.
 
@@ -6,7 +6,7 @@ Esté anális exploratorio se hace con el objetivo de conocer la base de datos, 
 Los datos serán relevantes en cuánto al tema de Brecha Digital desde una perspectiv sociológica, aún así esto no será una limitante  
 pues se busca conocer las estadísicas que puedan surgir e impulsar una investigación que se llevará a largo plazo.  
 Por el momento Base de Datos principal será el ENDUTIH (Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información  
-en los Hogares) del 2021 por el momento.
+en los Hogares) del 2021.
 
 ## Limpieza de datos
 
