@@ -84,6 +84,6 @@ en los hogares:
 <img src="/Graphs/NoComp_hog.png" width=760 height=554>
 
 Se puede observar cómo la principal razón es por falta de recursos económicos, seguida por la falta de interés y el no  
-saber  usar una computadora. Esto hace notar que la problemática más grande en cuanto al acceso, tiene que ver con la  
+saber usar una computadora. Esto hace notar que la problemática más grande en cuanto al acceso, tiene que ver con la  
 falta de recursos económicos, el cual es un problema cruza por todos los ámbitos, y aquí no es la excepción.
 
