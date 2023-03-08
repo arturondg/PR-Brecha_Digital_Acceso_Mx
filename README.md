@@ -6,19 +6,19 @@
 
 ## Introducción
 
-La Brecha Digital es una de las problemáticas con respesto a desigualdad más discutidas recientemente, y no es para     
+La Brecha Digital es una de las problemáticas con respesto a desigualdad más discutidas recientemente, y no es para    
 menos, las TIC (Tecnologías de la Información y las Comunicaciones) se han convertido en una parte escencial de  
 nuestra vida y como se desarrolla el mundo en general. El avance de las TIC ha sido acelerado y ha penetrado en  
 varios aspectos tanto económicos como sociales, dando un valor especial al conocimiento y la información, lo que  
-hizo que llamaran a este nuevo estadio de la sociedad como Sociedad de la Información. Y aunque a esta nueva "fase"   
-de la sociedad las TIC estén siendo usadas en diversas partes, está distribución no es igual. No sólo en cuestiones    
-de acceso, sino también en el uso y apropiación de estas mismas. 
+hizo que llamaran a este nuevo estadio de la sociedad como Sociedad de la Información. Y aunque a esta nueva  
+"fase" de la sociedad las TIC estén siendo usadas en diversas partes, está distribución no es igual. No sólo en  
+cuestiones de acceso, sino también en el uso y apropiación de estas mismas. 
 
 En este análisis me enfocaré en la Brecha de Acceso y Uso, haciendo una comparación entres los usuarios de  
-Computadoras y Smartphones en México. Partiré usando los Datos Abiertos de la Encuesta Nacional sobre Disponibilidad    
-y Uso de Tecnologías de la  Información en los Hogares (ENDUTIH) del 2021 hecha por el INEGI (Instituto Nacional de    
-Estadística y Geografía). Este será un proyecto a largo plazo, así que se podría decir que está es la primera parte   
-de los diversos análisis que se harán con respecto a la Brecha Digital.  
+Computadoras y Smartphones en México. Partiré usando los Datos Abiertos de la Encuesta Nacional sobre  
+Disponibilidad y Uso de Tecnologías de la  Información en los Hogares (ENDUTIH) del 2021 hecha por el INEGI  
+(Instituto Nacional de Estadística y Geografía). Este será un proyecto a largo plazo, así que se podría decir  
+que está es la primera parte de los diversos análisis que se harán con respecto a la Brecha Digital.  
 
 ## Datos
 
@@ -64,9 +64,9 @@ comparando el acceso entre los hogares a Smartphones, Computadoras e Internet.
 
 <img src="/Graphs/Tics_hog_sci.png" width=783 height=733>
 
-Como se puede observar el acceso a los Smartphones es extendido comparado al internet en el hogar y especialmente a  
-las computadoras. Entre más bajo se encuentre un hogar en el Estrato Socieconómico¹ menos acceso hay a Computadoras  
-en gran medida, y también el acceso a Internet se reduce de una manera significativa.   
+Como se puede observar el acceso a los Smartphones es extendido comparado al internet en el hogar y  
+especialmente a las computadoras. Entre más bajo se encuentre un hogar en el Estrato Socieconómico¹ menos  
+acceso hay a Computadoras en gran medida, y también el acceso a Internet se reduce de una manera significativa.     
 Esto es importante para futuros análisis, pues el acceso puede intervenir en el propio uso que se hace de internet.
 
 **Prueba de chi cuadrado**:  
@@ -78,12 +78,12 @@ Para más referencia revisar el documeto proporcionado.
 
 #### Porqué no se tiene acceso a una computadora en el hogar
 
-Dentro de la encuesta se enlista razones del porque no se tiene una computadora en casa, y esto es lo que se respondió  
-en los hogares:
+Dentro de la encuesta se enlista razones del porque no se tiene una computadora en casa, y esto es lo que se  
+respondió en los hogares:
 
 <img src="/Graphs/NoComp_hog.png" width=760 height=554>
 
 Se puede observar cómo la principal razón es por falta de recursos económicos, seguida por la falta de interés y el no  
-saber usar una computadora. Esto hace notar que la problemática más grande en cuanto al acceso, tiene que ver con la  
-falta de recursos económicos, el cual es un problema cruza por todos los ámbitos, y aquí no es la excepción.
+saber usar una computadora. Esto hace notar que la problemática más grande en cuanto al acceso, tiene que ver con  
+la falta de recursos económicos, el cual es un problema cruza por todos los ámbitos, y aquí no es la excepción.
 
