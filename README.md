@@ -107,5 +107,20 @@ razón importante, también se exhiben razones de uso que se alejan un poco del 
 
 ### Usuarios de TIC's en México
 
-El tener acceso en el hogar a cierta tic en la vivienda, no significa que los miembros de los hogares sean usuarios de la misma, así como ese acceso no restringe a la persona a ser usuario se puede considerar como tal aunque no tenga acceso desde el hogar.
+Si tienes interés del proceso de manipulación y gráficado de datos de esta sección, visita el siguiente notebook contenido en este repositorio:
+
+[Notebook de Usuarios de Computadoras y Smartphones](/jupyter_notebooks/2.3.-Tics_user.ipynb)
+
+#### Usuarios de TIC's por Estrato Socioeconómico
+
+El tener acceso en el hogar a cierta tic en la vivienda, no significa que los miembros de los hogares sean usuarios de la misma, así como ese acceso no restringe a la persona a ser usuario, pues se puede considerar como tal aunque no se tenga acceso desde el hogar.
+
+<img src="/Graphs/Tics_usu_sci.png" width=709 height=660>
+
+Está gráfica representa lo que se dijo al principio. La cantidad de usuarios de Smartphones tiende a permanecer equivalente, y hay algo que notar con los usuarios de internet, pues estos no disminuyen tanto, aunque el en el hogar según el estrato, no haya acceso a esta Tecnología. Se puede pensar que el acceso a Internet puede suceder en otros lugares, y así se verá. Además otra cosa a tener en cuenta, es que los ususarios parecen representar un número menor, incluso frente al propio acceso que hay por hogar a una computadora. 
+
+#### Desde que lugar acceden más a internet los usuarios
+
+![Acceso a computadora general](/Graphs/Acceso_compgen.png)
+
 
