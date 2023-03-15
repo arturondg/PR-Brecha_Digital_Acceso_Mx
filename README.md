@@ -81,7 +81,7 @@ este contexto se quiere  hacer una comparación entre los dispostivos con los cu
 directa con la internet, en específico con aplicaciones web o apps. Por eso mismo se comenzará el análisis  
 comparando el acceso entre los hogares a Smartphones, Computadoras e Internet.
 
-<img src="/Graphs/Tics_hog_sci.png" width=783 height=733>
+![Acceso a tics por hogar](/Graphs/Tics_hog_sci.png)
 
 Como se puede observar el acceso a los Smartphones es extendido comparado al internet en el hogar y  
 especialmente a las computadoras. Entre más bajo se encuentre un hogar en el Estrato Socieconómico¹ menos  
@@ -99,7 +99,7 @@ Para más referencia revisar el documeto proporcionado.
 Dentro de la encuesta se enlista razones del porque no se tiene una computadora en casa, y esto es lo que se  
 respondió en los hogares:
 
-<img src="/Graphs/NoComp_hog.png" width=760 height=554>
+![Razones del porque no se cuenta con una computadora](/Graphs/NoComp_hog.png)
 
 Se puede observar cómo la principal razón es por falta de recursos económicos, seguida por la falta de interés y el no  
 saber usar una computadora. Si bien, se expone presisamente la problemática económica, la cual desde el principio es una  
@@ -115,7 +115,7 @@ Si tienes interés del proceso de manipulación y gráficado de datos de esta se
 
 El tener acceso en el hogar a cierta tic en la vivienda, no significa que los miembros de los hogares sean usuarios de la misma, así como ese acceso no restringe a la persona a ser usuario, pues se puede considerar como tal aunque no se tenga acceso desde el hogar.
 
-<img src="/Graphs/Tics_usu_sci.png" width=709 height=660>
+![Usuarios de tics](/Graphs/Tics_usu_sci.png)
 
 Está gráfica representa lo que se dijo al principio. La cantidad de usuarios de Smartphones tiende a permanecer equivalente, y hay algo que notar con los usuarios de internet, pues estos no disminuyen tanto, aunque el en el hogar según el estrato, no haya acceso a esta Tecnología. Se puede pensar que el acceso a Internet puede suceder en otros lugares, y así se verá. Además otra cosa a tener en cuenta, es que los ususarios parecen representar un número menor, incluso frente al propio acceso que hay por hogar a una computadora. 
 
