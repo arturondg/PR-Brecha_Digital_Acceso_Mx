@@ -2,7 +2,7 @@
 
 <img src="https://www.greengeeks.com/blog/wp-content/uploads/2020/04/Mobile-and-Desktop-Users.jpg" width=600 height=300>
 
-*Este es un proyecto a largo plazo, tal vez se decida seguir actualizando este repositorio, o en un futuro separar los trabajos para uan mejor lectura, por el momentos este es un primer vistazo a la Brecha Digital con la Base de Datos del ENDUTIH*
+*Este es un proyecto a largo plazo, tal vez se decida seguir actualizando este repositorio, o en un futuro separar los trabajos para una mejor lectura, por el momentos este es un primer vistazo a la Brecha Digital con la Base de Datos del ENDUTIH*
 
 ## Tabla de Contenidos
 - [Introducción](#0)
