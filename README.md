@@ -142,7 +142,7 @@ El tener acceso en el hogar a cierta tic en la vivienda no significa que los mie
 
 ![Usuarios de tics](/Graphs/Tics_usu_sci.png)
 
-Está gráfica representa lo que se dijo al principio. La cantidad de usuarios de Smartphones tiende a permanecer equivalente, y hay algo que notar con los usuarios de internet, pues estos no solo no disminuyenm sino que aumentan y se equiparan a los usuarios de los Smartphones, aunque en el hogar según el estrato no haya acceso a esta Tecnología. Se puede pensar que el acceso a Internet puede suceder en otros lugares, y así se verá. 
+Está gráfica representa lo que se dijo al principio. La cantidad de usuarios de Smartphones tiende a permanecer equivalente, y hay algo que notar con los usuarios de internet, pues estos no solo no disminuyen sino que aumentan y se equiparan a los usuarios de los Smartphones, aunque en el hogar según el estrato no haya acceso a esta Tecnología. Se puede pensar que el acceso a Internet puede suceder en otros lugares, y así se verá. 
 
 Respecto a los usuarios de Computadoras, estos disminuyen por Estrato Socioecconómico, respecto al acceso en los hogares como con las otras tic, Smartphone e Internet:
 - Usuarios de Computadora del Estrato socioeconómico Alto: 66.79%
@@ -157,5 +157,26 @@ Respecto a los usuarios de Computadoras, estos disminuyen por Estrato Socioeccon
 #### Desde que lugar acceden más a internet los usuarios <a id="10"></a>
 
 ![Acceso a computadora general](/Graphs/Acceso_compgen.png)
+
+Continuando con la cuestión, los usuarios de Computadora acceden mayormente desde el hogar, pero también hay otros sitios desde los han accedido, y aunque no sea una proporción tan significativa, se torna importante detectar estos sitios. Y se dividen de la siguiente manera y en este orden:
+
+- Hogar.
+- Trabajo.
+- Casa de otra persona.
+- Escuela.
+- Cualquier otro lugar con portátil.
+- Sitio público con costo.
+- Sitio público sin costo.
+
+Me adelanto a decir que todos estos sitios pueden estar relacionados con el ambiente en el que se desarrolla el usuario, y eso sólo me lleva a más preguntas, ¿Acaso los espacios en los que se desarrolla la persona hacen que esta tenga un mayor contacto con la tecnología, en este caso una computadora?
+Esta pregunta no puede responderse tan fácilmente, pero si se puede echar un vistazo a como se da esta diferencia entre Estratos.
+
+<div>
+ <img src="Graphs/Acceso_compA.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_compMA.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_compMB.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_compB.png" width="400" height="330"/>
+</div>
+
 
 
