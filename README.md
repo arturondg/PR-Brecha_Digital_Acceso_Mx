@@ -15,7 +15,9 @@
     - [Porqué no se tiene acceso a una computadora en el hogar](#7)
   - [Usuarios de TIC's en México](#8)
     - [Usuarios de TIC's por Estrato Socioeconómico](#9)
-    - [Desde que lugar acceden más a internet los usuarios](#10)
+    - [Desde que lugar acceden más a una Computadora sus usuarios](#10)
+    - [Desde que lugar acceden más Internet sus Usuarios](#11)
+- [Conclusiones](#12)
 
 ## Introducción <a id="0"></a>
 
@@ -154,7 +156,7 @@ Respecto a los usuarios de Computadoras, estos disminuyen por Estrato Socioeccon
 - Usuarios de Computadora del Estrato socioeconómico Bajo: 11.61%
   - Acceso Computadora en el hogar: 13.49%
 
-#### Desde que lugar acceden más a internet los usuarios <a id="10"></a>
+#### Desde que lugar acceden más a una Computadora sus usuarios <a id="10"></a>
 
 ![Acceso a computadora general](/Graphs/Acceso_compgen.png)
 
@@ -177,6 +179,44 @@ Esta pregunta no puede responderse tan fácilmente, pero si se puede echar un vi
  <img src="Graphs/Acceso_compMB.png" width="400" height="330"/>
  <img src="Graphs/Acceso_compB.png" width="400" height="330"/>
 </div>
+
+Entre más debajo de se encuentre ubicado un usuario en el Estrato Socioeconómico, menor acceso habrá desde el hogar (90% al 70%), y esto es aún más amplio en el lugar de trabajo pues se reduce a la mitad desde el Estrato más alto al más bajo. 
+
+Otra medida muy importante y que se vuelve interesante, es que el acceso a una computadora desde un sitio público con costo parece aumentar considerablemente, siendo que los usuarios del Estrato Socioeconómico más bajo tienen que recurrir a alternativas posibles de renta de dispositivos. Lo que da mucho que pensar, pues una computadora pudiera ser realmente necesaria. 
+
+También las instituciones educativas comienzan a jugar un papel importante en este acceso en el estrato más bajo. Ante esta falta de oportunidades, la búsqueda fuera del hogar es algo necesario si se quiere poder acceder a un computador.
+
+#### Desde que lugar acceden más Internet sus Usuarios <a id="11"></a>
+
+![Acceso a computadora general](/Graphs/Acceso_intergen.png)
+
+El acceso desde el hogar a Internet parece una situación indispensable, pues es el lugar recurrente por excelencia. Aún así esta gráfica no sólo revela ese hecho, sino que ese mismo acceso a Internet, se da mediante dispositivos móviles, en este caso es muy probable que sea desde un Smartphones, ya que el acceso mediante conexión móvil representa poco más del 50% del acceso a Internet. También lo es así el acceso desde alguna otra vivienda, lo que denota que tan distribuida está esta tecnología. 
+
+Ahora se dará un vistazo a este acceso desde los Estratos Socioeconómicos:
+
+<div>
+ <img src="Graphs/Acceso_interA.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_interMA.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_interMB.png" width="400" height="330"/>
+ <img src="Graphs/Acceso_interB.png" width="400" height="330"/>
+</div>
+
+Mientras el acceso desde el hogar se mantiene similar entre los Estratos, y así como con las Computadoras, el acceso desde el Trabajo disminuye gradualmente (50% - 20%). También el acceso desde sitios públicos con costo parece representar una pequeña fracción de relevancia quizá no tan notable como con las Computadoras. 
+Dos de los lugares parecen tener medidas interesantes. El primer caso es el acceso desde las viviendas de otras personar, pues conforme se disminuye el Estrato, este lugar de acceso baja, así como en menor medida lo es en las instituciones educativas.
+
+Esto no nos da respuestas completas, pero nos puede sugerir ciertas pistas. Estos dos tics se vuelven necesarias, el internet más que las computadoras. Pues la primera parece tener una mayor distribución, mientras que la computadora no, pero aún son requeridas en ciertas situaciones, pues su búsqueda fuera del hogar es más alta. Y el último aspecto, y el más interesante es que en ambas tecnologías, el acceso sea menor en el Trabajo. Puede llegarse a pensar que no son necesarias en los estratos más bajos, o que la naturaleza de los trabajos disminuyen esos requerimientos. Una cosa es segura, entre menor sea el Estrato, menor es la necesidad de acceder a Internet o a una Computadora desde el Trabajo. 
+
+## Conclusiones <a id="12"></a>
+
+Es muy apresurado llegar a conclusiones, pues el motivo de este proyecto tiene como fin, el acercarse a este problema, pues la brecha digital comprende más problemáticas que se deben revisar a profundidad, por lo que este es el primero de muchos análisis que se seguirán haciendo. Aún así aquí se presentan los puntos importantes.
+
+- El uso de Smartphones está muy extendido, al igual que el internet, a diferencia de las Computadoras las cuales son muy poco socorridas por la población Mexicana.
+
+- El hogar no es el lugar determinante para acceder a ciertas tecnologías, en este caso al Internet y a la Computadora, pues hay diferentes alternativas de acceso, aunque no son tan significativas, como lo es la vivienda.
+
+- El acceso a una Computadora o Internet esta relacionado al trabajo, cabe la posibilidad de que el uso de estas TIC’s sea necesario en las tareas que se llevan a cabo dentro del contexto laboral. 
+
+- El aumento de acceso a lugares públicos con costo aumenta al bajar Estratos Socioeconómicos, más en el uso de Computadoras que Internet. Lo que podría decirnos que estas tics son necesarias de alguna forma para la población.
 
 
 
