@@ -18,6 +18,7 @@
     - [Desde que lugar acceden más a una Computadora sus usuarios](#10)
     - [Desde que lugar acceden más a Internet sus Usuarios](#11)
 - [Conclusiones](#12)
+- [Referencias](#13)
 
 ## Introducción <a id="0"></a>
 
@@ -218,5 +219,12 @@ Es muy apresurado llegar a conclusiones, pues el motivo de este proyecto tiene c
 
 - El aumento de acceso a lugares públicos con costo aumenta al bajar Estratos Socioeconómicos, más en el uso de Computadoras que Internet. Lo que podría decirnos que estas tics son necesarias de alguna forma para la población.
 
+## Referencias <a id="13"></a>
+
+Instituto Nacional de Estadística y Geografía. (2021). Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares 2021: ENDUTIH: diseño muestral. México. Recuperado de https://www.inegi.org.mx/contenidos/productos/prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/889463904632.pdf 
+
+INEGI. (s.f.). Glosario de términos. Recuperado de https://www.inegi.org.mx/app/glosario/default.html?p=ENDUTIH_2021
+
+Navarro, D. A., López, R. A., Domínguez, M. M., & Castañeda, C. D. (23 de Marzo de 2018). La brecha digital: una revisión conceptual y aportaciones metodológicas para su estudio en México, 6(16). México: Entreciencias: Diálogos en la Sociedad del Conocimiento. doi:https://doi.org/10.22201/enesl.20078064e.2018.16
 
 
