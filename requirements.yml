@@ -1,0 +1,22 @@
+name: brechaea
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel=6.15.0=pyh210e3f2_0
+  - ipython=8.10.0=pyh41d4057_0
+  - jupyter_client=7.0.6=pyhd8ed1ab_0
+  - jupyter_core=5.2.0=py39hf3d152e_0
+  - matplotlib-base=3.4.3=py39h2fa2bec_2
+  - matplotlib-inline=0.1.6=pyhd8ed1ab_0
+  - numpy=1.22.3=py39he7a7128_0
+  - numpy-base=1.22.3=py39hf524024_0
+  - pandas=1.2.5=py39h295c915_0
+  - pip=21.2.4=py39h06a4308_0
+  - python=3.9.12=h12debd9_1
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.9=2_cp39
+  - scipy=1.9.3=py39h14f4228_0
+  - seaborn=0.12.2=hd8ed1ab_0
+  - seaborn-base=0.12.2=pyhd8ed1ab_0
+prefix: /home/arturo/anaconda3/envs/brechaea
