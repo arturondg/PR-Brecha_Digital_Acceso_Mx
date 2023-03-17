@@ -2,7 +2,7 @@
 
 <img src="https://www.greengeeks.com/blog/wp-content/uploads/2020/04/Mobile-and-Desktop-Users.jpg" width=600 height=300>
 
-*El proyecto sigue en contrucción pero se actualiza constantemente*
+*Este es un proyecto a largo plazo, tal vez se decida seguir actualizando este repositorio, o en un futuro separar los trabajos para uan mejor lectura, por el momentos este es un primer vistazo a la Brecha Digital con la Base de Datos del ENDUTIH*
 
 ## Tabla de Contenidos
 - [Introducción](#0)
@@ -16,7 +16,7 @@
   - [Usuarios de TIC's en México](#8)
     - [Usuarios de TIC's por Estrato Socioeconómico](#9)
     - [Desde que lugar acceden más a una Computadora sus usuarios](#10)
-    - [Desde que lugar acceden más Internet sus Usuarios](#11)
+    - [Desde que lugar acceden más a Internet sus Usuarios](#11)
 - [Conclusiones](#12)
 
 ## Introducción <a id="0"></a>
@@ -186,7 +186,7 @@ Otra medida muy importante y que se vuelve interesante, es que el acceso a una c
 
 También las instituciones educativas comienzan a jugar un papel importante en este acceso en el estrato más bajo. Ante esta falta de oportunidades, la búsqueda fuera del hogar es algo necesario si se quiere poder acceder a un computador.
 
-#### Desde que lugar acceden más Internet sus Usuarios <a id="11"></a>
+#### Desde que lugar acceden más a Internet sus Usuarios <a id="11"></a>
 
 ![Acceso a computadora general](/Graphs/Acceso_intergen.png)
 
